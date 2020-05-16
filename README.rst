@@ -1,7 +1,7 @@
    .. image:: https://travis-ci.org/desertplain/se_hello_printer_app.svg?branch=master
       :target: https://travis-ci.org/desertplain/se_hello_printer_app
    
-   .. image:: https://app.statuscake.com/button/index.php?Track=j2kWEBJA6E&Days=1&Design=7
+   .. image:: https://app.statuscake.com/button/index.php?Track=j2kWEBJA6E&Days=1000&Design=2
       :target: https://app.statuscake.com/UptimeStatus.php?tid=5507341
 
 
