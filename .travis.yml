@@ -1,6 +1,6 @@
 language: python
 python:
- - "2.7"
+ - "3.6.10"
 install:
  - make deps
 script:
@@ -12,5 +12,5 @@ services:
  - docker
 deploy:
   provider: heroku
-  app: polar-reef-82921.herokuapp.com
+  app: polar-reef-82921
   api_key: ${3f32a625-33ec-428f-a025-42e189db2c74}
