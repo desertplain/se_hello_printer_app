@@ -1,4 +1,4 @@
-|Generic badge| image:: https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
+   image:: https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
    :target:
 
 Simple Flask App
