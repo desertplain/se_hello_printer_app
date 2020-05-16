@@ -1,5 +1,9 @@
    .. image:: https://travis-ci.org/desertplain/se_hello_printer_app.svg?branch=master
-   :target: https://travis-ci.org/desertplain/se_hello_printer_app
+      :target: https://travis-ci.org/desertplain/se_hello_printer_app
+   
+   .. image:: https://app.statuscake.com/button/index.php?Track=j2kWEBJA6E&Days=1&Design=1
+      :target: https://www.statuscake.com
+
 
 Simple Flask App
 ================
