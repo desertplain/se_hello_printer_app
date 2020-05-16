@@ -1,5 +1,5 @@
-   image:: https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
-   :target:
+   .. image:: https://travis-ci.org/desertplain/se_hello_printer_app.svg?branch=master
+   :target: https://travis-ci.org/desertplain/se_hello_printer_app
 
 Simple Flask App
 ================
