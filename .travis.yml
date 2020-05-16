@@ -10,3 +10,7 @@ script:
  - make docker_push
 services:
  - docker
+deploy:
+  provider: heroku
+  app: polar-reef-82921.herokuapp.com
+  api_key: ${3f32a625-33ec-428f-a025-42e189db2c74}
